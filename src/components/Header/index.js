@@ -6,7 +6,11 @@ const Header = () => (
       <p className="website-logo">AR</p>
       <ul className="nav-menu">
         <li>
-          <a href="https://www.linkedin.com/in/abhiram8034">
+          <a
+            href="https://www.linkedin.com/in/abhiram8034"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="social-network-img"
               src="https://assets.ccbp.in/frontend/react-js/projects-linkedin-img.png"
@@ -15,7 +19,11 @@ const Header = () => (
           </a>
         </li>
         <li>
-          <a href="https://github.com/abhii8034">
+          <a
+            href="https://github.com/abhii8034"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="social-network-img"
               src="https://assets.ccbp.in/frontend/react-js/projects-github-img.png"
@@ -24,7 +32,11 @@ const Header = () => (
           </a>
         </li>
         <li>
-          <a href="https://www.twitter.com/mavy_8034">
+          <a
+            href="https://www.twitter.com/mavy_8034"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img
               className="social-network-img"
               src="https://assets.ccbp.in/frontend/react-js/projects-twitter-img.png"
